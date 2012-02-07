@@ -1,0 +1,4 @@
+linux.root = /dev/mtdblock4
+linux.console_device = ttyS
+
+

@@ -1,0 +1,5 @@
+linux.root = /dev/mtdblock4
+linux.console = ttyS
+
+
+flash.nand.ecc_mode = NAND_ECC_SW

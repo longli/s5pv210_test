@@ -1,0 +1,7 @@
+linux.root = /dev/mtdblock4
+linux.console = ttySAC
+
+
+display.lcd.model = P043F1A4
+flash.nand.ecc_mode = NAND_ECC_SW
+display.lcd.pixel_format = PIX_RGB24
